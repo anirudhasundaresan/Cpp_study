@@ -70,5 +70,6 @@ public:
 int main()
 {	
 	Scooter s1;
+	cout << "Hello" << "Checking git" 
 	return 0;
 }
